@@ -1,0 +1,44 @@
+body{
+    /* background: url('../IMG-20221109-WA0051\ \(1\).jpg');
+    background-repeat:no-repeat ;
+    background-size:cover; */
+}
+
+.container{
+    background-color: #00fff2;
+    color: #563456;;
+    border-bottom: chartreuse;
+    border-style: dashed;
+}
+.title{
+    text-align: center;
+}
+.sub title{
+    text-align: right;
+    text-shadow: #563456;
+    text-emphasis: none;
+    text-decoration-color: blue;
+}
+
+.btn{
+    background-color:  red;
+    color:white;
+    border-radius:25px;
+    padding:8px;
+
+}
+.contacts{
+    margin-right: 50px;
+  
+}
+.form{
+    background-color: crimson;
+    text-align: center;
+    width:100px;
+    margin:30px;
+}
+.form-controls{
+    margin: 23px;
+    width: 50px;
+    display: 30px;;
+}
